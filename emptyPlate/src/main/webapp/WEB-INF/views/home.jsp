@@ -23,7 +23,7 @@
 					<div class="inner">
 						<header>
 							<p>특별한 한끼의 경험 <a>파인다이닝</a></p>
-							<h2>Fine Dining!</h2>
+							<h2>Fine Dining</h2>
 						</header>
 					</div>
 				</article>
